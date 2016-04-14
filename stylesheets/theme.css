@@ -991,7 +991,7 @@ h6 {
 #faa h6, #notices h6, #quota-warnings h6, #content-stats h6, #jump-search h6 {
     background: rgba(41, 58, 74, 0.95) none repeat scroll 0 0!important;
     border-bottom: 2px solid #ccc!important;
-    color: #333!important;
+    color: #fff!important;
     font: 700 12px Verdana,sans-serif!important;
     margin: 0!important;
     padding: 0!important;
@@ -2817,30 +2817,21 @@ h3, h6, #notices h6, #quota-warnings h6, #content-stats h6 {
     color: #333!important;
     font: 700 12px Verdana,sans-serif!important;
 }
-h6 {
-    border-bottom: 2px solid #ccc!important;
-    color: #333!important;
-    cursor: move!important;
-    font: 700 12px Verdana,sans-serif!important;
-    height: 15px!important;
-    margin: 0 0 9px!important;
-    padding: 0!important;
-    text-align: center!important;
-}
+
 h6.sfhover {
     cursor: pointer!important;
 }
 h6:hover , h6.sfhover {
-    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    background: rgba(41, 58, 74, 0.95) none repeat scroll 0 0!important;
 }
 h3 {
     border-bottom: 2px solid #ccc!important;
-    color: #333!important;
+    color: #fff!important;
     cursor: default!important;
     font: 700 12px Verdana,sans-serif!important;
     margin: 0 0 10px!important;
     min-height: 15px!important;
-    padding: 0!important;
+    padding: 10px!important;
     text-align: center!important;
 }
 h6:hover {
