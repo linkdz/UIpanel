@@ -593,7 +593,6 @@ img, object, embed {
     width: 100%;
 }
 #cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
-    left: 580px;
     position: absolute;
     top: 35px;
 }
@@ -1335,10 +1334,6 @@ p.highlight-accordian-desc {
     background: #fff none repeat scroll 0 0;
     border: 1px solid #ccc;
     color: #000;
-}
-#cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
-    left: 504px;
-    top: 48px;
 }
 #hilight-box {
     background: #eee none repeat scroll 0 0;
