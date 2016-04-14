@@ -2002,7 +2002,7 @@ html[dir="rtl"] #login-status-message {
     background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffb414 0%, #ffb414 32%, #ffd374 53%, #ffcd63 57%, #ffcd63 61%, #ffc549 74%, #ffc549 78%, #ffbd31 91%, #ffbd31 96%, #ffbb29 100%) repeat scroll 0 0!important;
 }
 .spriteicon_img {
-    background: rgba(0, 0, 0, 0) url("/panel/res/icon_sprites_img.jpg") repeat scroll 0 0!important;
+    background: rgba(0, 0, 0, 0) url("/panel/res/icon_sprites_img.jpg") repeat scroll 0 0;
     margin: 0 auto!important;
     text-decoration: none!important;
 }
@@ -2633,7 +2633,7 @@ html[dir="rtl"] #login-status-message {
     width: 6px!important;
 }
 .spriteheading_compleximg {
-    background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_compleximg.jpg") no-repeat scroll 0 0!important;
+    background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_compleximg.jpg") no-repeat scroll 0 0!;
     float: left!important;
     margin: 0!important;
     padding: 0!important;
@@ -2646,7 +2646,7 @@ html[dir="rtl"] #login-status-message {
     width: 742px!important;
 }
 .spriteheading_img {
-    background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_img.png") repeat scroll 0 0!important;
+    background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_img.png") repeat scroll 0 0;
     float: left!important;
     margin: 0!important;
     padding: 0!important;
@@ -3005,3 +3005,4 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
+
