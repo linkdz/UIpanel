@@ -565,7 +565,7 @@ img, object, embed {
     max-width: 100%;
 }
 #cpanel {
-    background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;
+    background: #ffffff none repeat scroll 0 0!important;
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06), 0 2px 4px rgba(0, 0, 0, 0.03)!important;
     margin: 0 auto !important;
     padding: 3px;
@@ -654,7 +654,7 @@ img, object, embed {
     margin: 0 10px;
 }
 body {
-    background: #e6e6e6 url("../branding/bg.jpg") repeat-x scroll 0 0;
+    background: background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;;
     font-family: verdana,arial,helvetica,sans-serif;
     font-size: 11px;
     margin: 10px 0;
