@@ -236,7 +236,7 @@ h2.cpaddonsline {
     position: absolute!important;
 }
 .yui-override-padding {
-    padding: 0 !important!important;
+    padding: 0 !important;
 }
 .yui-panel-container .container-close {
     overflow: hidden!important;
@@ -565,10 +565,10 @@ img, object, embed {
     max-width: 100%;
 }
 #cpanel {
-    background: #ffffff none repeat scroll 0 0!important!important;
+    background: #ffffff none repeat scroll 0 0!important;
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.06), 0 2px 4px rgba(0, 0, 0, 0.03)!important!important;
     margin: 0 auto !important;
-    padding: 0px!important!important;
+    padding: 0px!important;
     width: 800px !important
 }
 #cpanel #border-efx {
@@ -593,7 +593,7 @@ img, object, embed {
     width: 100%;
 }
 #cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
-    left: 0 !important!important;
+    left: 0 !important;
     top: 50px!important;
 }
 #cpanel #border-efx #content {
@@ -653,7 +653,7 @@ img, object, embed {
     margin: 0 10px!important;
 }
 body {
-    background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important!important;
+    background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;
     font-family: verdana,arial,helvetica,sans-serif!important;
     font-size: 11px!important;
     margin: 10px 0!important;
@@ -973,7 +973,7 @@ h2, h4 {
     width: auto!important;
 }
 #sub #jump-search {
-    display: none !important!important;
+    display: none !important;
 }
 #content-stats h3, #content-stats h3:hover {
     cursor: pointer!important;
@@ -1175,7 +1175,7 @@ img.logo_edit {
     background: #fff url("../images/popup-bg.gif") repeat-x scroll 0 100%;
     border: 1px solid #aaa!important;
     padding: 15px!important;
-    width: 680px !important!important;
+    width: 680px !important;
     z-index: 1!important;
 }
 #tutorial_overlay.yui-overlay .content {
@@ -1510,7 +1510,7 @@ p.description img {
     position: absolute!important;
 }
 .yui-override-padding {
-    padding: 0 !important!important;
+    padding: 0 !important;
 }
 .yui-panel-container .container-close {
     overflow: hidden!important;
@@ -1553,7 +1553,7 @@ ul.validation_errors_ul li.validation_errors_li {
     padding: 8px 10px!important;
 }
 .help_panel .container-close {
-    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important!important;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
     height: auto!important;
     padding: 0 0 5px 10px!important;
     position: static!important;
@@ -1901,5 +1901,5 @@ html[dir="rtl"] #login-status-message {
     outline-color: #ddd!important;
 }
 .regform {
-    display: none !important!important;
+    display: none !important;
 }
