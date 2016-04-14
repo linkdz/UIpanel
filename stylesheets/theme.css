@@ -2002,7 +2002,7 @@ html[dir="rtl"] #login-status-message {
     background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffb414 0%, #ffb414 32%, #ffd374 53%, #ffcd63 57%, #ffcd63 61%, #ffc549 74%, #ffc549 78%, #ffbd31 91%, #ffbd31 96%, #ffbb29 100%) repeat scroll 0 0;
 }
 .spriteicon_img {
-    background: rgba(0, 0, 0, 0) url("/panel/res/icon_sprites_img.jpg") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("https://linkdz.github.io/UIpanel/images/icon_sprites_img.png") repeat scroll 0 0important;
     margin: 0 auto;
     text-decoration: none;
 }
