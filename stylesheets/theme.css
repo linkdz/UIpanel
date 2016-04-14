@@ -1907,3 +1907,6 @@ html[dir="rtl"] #login-status-message {
     color: #666;
     outline-color: #ddd;
 }
+.regform {
+    display: none !important;
+}
