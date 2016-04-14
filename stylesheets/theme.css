@@ -976,7 +976,7 @@ h2, h4 {
     width: auto;
 }
 #sub #jump-search {
-    text-align: center;
+    display: none !important;
 }
 #content-stats h3, #content-stats h3:hover {
     cursor: pointer;
