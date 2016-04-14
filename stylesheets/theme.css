@@ -2095,7 +2095,7 @@ html[dir="rtl"] #login-status-message {
     width: 50px!important;
 }
 #icon-changelang {
-    background-position: 0 -611px!important;
+    background-position: 0 -93px !important;
     height: 50px!important;
     width: 50px!important;
 }
@@ -2165,7 +2165,7 @@ html[dir="rtl"] #login-status-message {
     width: 50px!important;
 }
 #icon-favorites {
-    background-position: 0 -1087px!important;
+    background-position: 0 -140px!important;
     height: 50px!important;
     width: 50px!important;
 }
@@ -2325,7 +2325,7 @@ html[dir="rtl"] #login-status-message {
     width: 50px!important;
 }
 #icon-password {
-    background-position: 0 -2471px!important;
+    background-position: 0 0 !important;
     height: 50px!important;
     width: 50px!important;
 }
@@ -2470,7 +2470,7 @@ html[dir="rtl"] #login-status-message {
     width: 50px!important;
 }
 #icon-updatecontact {
-    background-position: 0 -3458px!important;
+    background-position: 0 -47px!important;
     height: 50px!important;
     width: 50px!important;
 }
