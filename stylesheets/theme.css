@@ -961,7 +961,7 @@ h2, h4 {
     background: transparent url("/red-status.gif") no-repeat scroll left center!important;
 }
 .okmsg {
-    background: transparent url("/green-status.gif") no-repeat scroll left center!important;
+    background: transparent url("/green-status.gif") no-repeat scroll left center;
 }
 #handheld-head {
     display: none!important;
@@ -979,7 +979,7 @@ h2, h4 {
     cursor: pointer!important;
 }
 h6 {
-    color: #fff!important!important;
+    color: #fff!important;
     cursor: move!important;
     font: 700 12px Verdana,sans-serif!important;
     height: 18px!important;
@@ -3005,3 +3005,4 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
+
