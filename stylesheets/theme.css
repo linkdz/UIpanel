@@ -1985,7 +1985,7 @@ html[dir="rtl"] #login-status-message {
     float: left!important;
 }
 .regform .opt_3 button {
-    background: rgba(0, 0, 0, 0) url("/panel/res/button_background.png") repeat-x scroll left top!important;
+    background: rgba(0, 0, 0, 0) url("/panel/res/button_background.png") repeat-x scroll left top;
     border: medium none!important;
     border-radius: 0 5px 5px 0!important;
     cursor: pointer!important;
@@ -1996,15 +1996,15 @@ html[dir="rtl"] #login-status-message {
     z-index: 11!important;
 }
 .regform .opt_3 button:hover {
-    background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffd57b 0%, #ffd67f 4%, #ffd67f 9%, #ffdc8f 22%, #ffdc8f 26%, #ffe19f 39%, #ffe19f 43%, #ffe4a9 52%, #ffd16d 57%, #ffd16d 100%) repeat scroll 0 0!important;
+    background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffd57b 0%, #ffd67f 4%, #ffd67f 9%, #ffdc8f 22%, #ffdc8f 26%, #ffe19f 39%, #ffe19f 43%, #ffe4a9 52%, #ffd16d 57%, #ffd16d 100%) repeat scroll 0 0;
 }
 .regform .opt_3 button:active {
-    background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffb414 0%, #ffb414 32%, #ffd374 53%, #ffcd63 57%, #ffcd63 61%, #ffc549 74%, #ffc549 78%, #ffbd31 91%, #ffbd31 96%, #ffbb29 100%) repeat scroll 0 0!important;
+    background: rgba(0, 0, 0, 0) -moz-linear-gradient(center top , #ffb414 0%, #ffb414 32%, #ffd374 53%, #ffcd63 57%, #ffcd63 61%, #ffc549 74%, #ffc549 78%, #ffbd31 91%, #ffbd31 96%, #ffbb29 100%) repeat scroll 0 0;
 }
 .spriteicon_img {
     background: rgba(0, 0, 0, 0) url("/panel/res/icon_sprites_img.jpg") repeat scroll 0 0;
-    margin: 0 auto!important;
-    text-decoration: none!important;
+    margin: 0 auto;
+    text-decoration: none;
 }
 #icon-Softaculous_De_Luxe {
     background-position: 0 -1px!important;
@@ -3005,4 +3005,3 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
-
