@@ -621,14 +621,14 @@ img, object, embed {
     margin: 5px 5px 0 14px!important;
     min-height: 300px!important;
     padding: 0!important;
-    width: 221px!important;
+    width: 230px!important;
 }
 #cpanel #border-efx #content #main {
     float: right!important;
     margin: 0 15px 0 5px!important;
     min-height: 300px!important;
     padding: 0!important;
-    width: 497px!important;
+    width: 520px!important;
 }
 #cpanel #border-efx .footer {
     height: 20px!important;
@@ -978,8 +978,18 @@ h2, h4 {
 #content-stats h3, #content-stats h3:hover {
     cursor: pointer!important;
 }
+h6 {
+    color: #fff!important!important;
+    cursor: move!important;
+    font: 700 12px Verdana,sans-serif!important;
+    height: 18px!important;
+    margin: 0 0 9px!important;
+    padding: 10px!important;
+    text-align: center!important;
+}
+
 #faa h6, #notices h6, #quota-warnings h6, #content-stats h6, #jump-search h6 {
-    background: rgba(0, 0, 0, 0) url("../branding/tbl-bg.jpg") repeat-x scroll center bottom!important;
+    background: rgba(41, 58, 74, 0.95) none repeat scroll 0 0!important;
     border-bottom: 2px solid #ccc!important;
     color: #333!important;
     font: 700 12px Verdana,sans-serif!important;
@@ -1903,3 +1913,4 @@ html[dir="rtl"] #login-status-message {
 .regform {
     display: none !important;
 }
+
