@@ -593,8 +593,8 @@ img, object, embed {
     width: 100%;
 }
 #cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
-    position: absolute;
-    top: 35px;
+    left: 0 !important;
+    top: 50px;
 }
 #cpanel #border-efx #content {
     margin: 0 auto;
