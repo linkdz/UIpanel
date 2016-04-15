@@ -2653,13 +2653,13 @@ html[dir="rtl"] #login-status-message {
 }
 #heading-help_off {
     background-position: 0 0!important;
-    height: 37px!important;
-    width: 35px!important;
+    height: 50px!important;
+    width: 90px!important;
 }
 #heading-help_on {
-    background-position: 0 -37px!important;
-    height: 37px!important;
-    width: 35px!important;
+    background-position: 0 -50px!important;
+    height: 50px!important;
+    width: 90px!important;
 }
 #heading-home_off {
     display: none !important;
@@ -2670,14 +2670,15 @@ html[dir="rtl"] #login-status-message {
     width: 35px!important;
 }
 #heading-logout_off {
-    background-position: 0 -148px!important;
-    height: 37px!important;
-    width: 35px!important;
+	
+    background-position: -90px 0 !important;
+    height: 50px!important;
+    width: 90px!important;
 }
 #heading-logout_on {
-    background-position: 0 -185px!important;
-    height: 37px!important;
-    width: 35px!important;
+    background-position: -90px -50px !important;
+    height: 50px!important;
+    width: 90px!important;
 }
 .spriteheading_bg {
     background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_bg_snap_to_smallest_width.png") repeat-x scroll 0 0!important;
