@@ -2010,9 +2010,9 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-addondomain {
-    background-position: 0 -35px!important;
+    background-position: 0 -3235px !important;
     height: 40px!important;
-    width: 33px!important;
+    width: 40px!important;
 }
 #icon-analogstats {
     background-position: 0 -69px!important;
@@ -2095,7 +2095,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-changelang {
-    background-position: 0 -93px !important;
+    background-position: 0 -74px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2145,7 +2145,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-emailmx {
-    background-position: 0 -951px!important;
+    background-position: 0 -372px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2165,7 +2165,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-favorites {
-    background-position: 0 -140px!important;
+    background-position: 0 -113px!important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2175,7 +2175,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-forwardersemail {
-    background-position: 0 -1155px!important;
+    background-position: 0 -494px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2280,7 +2280,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-manageaccounts {
-    background-position: 0 -2168px!important;
+    background-position: 0 -453px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2320,7 +2320,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-parkeddomains {
-    background-position: 0 -2437px!important;
+    background-position: 0 -3280px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2385,9 +2385,9 @@ html[dir="rtl"] #login-status-message {
     width: 42px!important;
 }
 #icon-redirects {
-    background-position: 0 -2880px!important;
+    background-position: 0 -3323px !important;
     height: 40px!important;
-    width: 33px!important;
+    width: 40px!important;
 }
 #icon-responder {
     background-position: 0 -2914px!important;
@@ -2410,7 +2410,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-simplezoneedit {
-    background-position: 0 -3050px!important;
+    background-position: 0 -3367px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2440,9 +2440,9 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-subdomains {
-    background-position: 0 -3254px!important;
+    background-position:0 -3192px !important;
     height: 40px!important;
-    width: 43px!important;
+    width: 40px!important;
 }
 #icon-submit-support {
     background-position: 0 -3288px!important;
@@ -2470,7 +2470,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-updatecontact {
-    background-position: 0 -47px!important;
+    background-position: 0 -37px!important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -2500,7 +2500,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-webemail {
-    background-position: 0 -3662px!important;
+    background-position: 0 -535px !important;
     height: 40px!important;
     width: 40px!important;
 }
@@ -3003,3 +3003,4 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
+
