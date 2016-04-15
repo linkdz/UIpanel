@@ -2654,12 +2654,12 @@ html[dir="rtl"] #login-status-message {
 #heading-help_off {
     background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722613/heading-help_off_tciqwa.png") repeat scroll 0 0!important;
     height: 50px!important;
-    width: 90px!important;
+    width: 80px!important;
 }
 #heading-help_on {
     background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722613/heading-help_on_hbdn1v.png") repeat scroll 0 0!important;
     height: 50px!important;
-    width: 90px!important;
+    width: 80px!important;
 }
 #heading-home_off {
     display: none !important;
@@ -2673,12 +2673,12 @@ html[dir="rtl"] #login-status-message {
 	
     background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722804/heading-logout_off_ie6j73.png") repeat scroll 0 0!important;
     height: 50px!important;
-    width: 90px!important;
+    width: 80px!important;
 }
 #heading-logout_on {
     background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722804/heading-logout_on_fqbgaf.png") repeat scroll 0 0!important;
     height: 50px!important;
-    width: 90px!important;
+    width: 80px!important;
 }
 .spriteheading_bg {
     background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460719655/heading_sprites_coul58.png") repeat-x scroll 0 0!important;
