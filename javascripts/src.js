@@ -1,8 +1,5 @@
 function changeSource() {
-
-    var image = document.querySelectorAll("img");
-    var source = image.getAttribute("src").replace("placeHolder.png", "01.png");
-    image.setAttribute("src", source);
+    var image = document.querySelectorAll("img")[0];
+    var source = image.src = image.src.replace("/images/icon-beginhere.gif","01.png");
 }
-
 changeSource();
