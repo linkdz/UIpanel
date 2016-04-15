@@ -572,7 +572,7 @@ img, object, embed {
     width: 800px !important
 }
 #cpanel #border-efx {
-    border: border: medium none !important;
+    border: medium none !important;
     margin: 0!important;
     padding: 0!important;
 }
@@ -3002,4 +3002,3 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
-
