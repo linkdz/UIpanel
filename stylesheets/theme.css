@@ -2681,7 +2681,7 @@ html[dir="rtl"] #login-status-message {
     width: 90px!important;
 }
 .spriteheading_bg {
-    background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_bg_snap_to_smallest_width.png") repeat-x scroll 0 0!important;
+    background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460719655/heading_sprites_coul58.png") repeat-x scroll 0 0!important;
     left: 0!important;
     margin: 0!important;
     padding: 0!important;
