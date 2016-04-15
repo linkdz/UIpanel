@@ -2356,8 +2356,8 @@ html[dir="rtl"] #login-status-message {
 }
 #icon-phpMyAdmin {
     background-position: 0 -620px !important;
-    height: 34px!important;
-    width: 45px!important;
+    height: 40px!important;
+    width: 40px!important;
 }
 #icon-phpPgAdmin {
     background-position: 0 -2711px!important;
@@ -3004,4 +3004,3 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
-
