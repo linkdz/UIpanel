@@ -590,7 +590,7 @@ img, object, embed {
     padding: 0!important;
     position: relative!important;
     top: 0!important;
-    width: 100%;
+    width: 100%!important;;
 }
 #cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
     left: 0 !important;
@@ -3004,3 +3004,4 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
+
