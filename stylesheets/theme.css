@@ -1782,12 +1782,13 @@ div.password_strength {
     width: auto!important;
 }
 .cellbox-body {
-    clear: both!important;
-    margin-left: 0!important;
-    margin-right: 0!important;
-    margin-top: 9px!important;
-    overflow: hidden!important;
-    padding: 0!important;
+    background: #fff none repeat scroll 0 0 !important;
+    clear: both !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+    overflow: hidden !important;
+    padding: 5px 0 !important;
     width: 100%;
 }
 h6.index_box_header {
@@ -2791,6 +2792,7 @@ h3, h6, #notices h6, #quota-warnings h6, #content-stats h6 {
     padding: 0!important;
 }
 .cellbox {
+	border-radius: 3px;
     border: 1px solid #ccc!important;
     line-height: 1.2em!important;
     margin: 0!important;
