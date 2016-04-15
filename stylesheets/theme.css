@@ -2644,7 +2644,7 @@ html[dir="rtl"] #login-status-message {
     width: 742px!important;
 }
 .spriteheading_img {
-    background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460717214/heading_sprites_img_sj1rv8.png") repeat scroll 0 0!important;
+    background: rgba(0, 0, 0, 0)!important;
     float: left!important;
     margin: 0!important;
     padding: 0!important;
@@ -2652,12 +2652,12 @@ html[dir="rtl"] #login-status-message {
     top: 0!important;
 }
 #heading-help_off {
-    background-position: 0 0!important;
+    background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722613/heading-help_off_tciqwa.png") repeat scroll 0 0!important;
     height: 50px!important;
     width: 90px!important;
 }
 #heading-help_on {
-    background-position: 0 -50px!important;
+    background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722613/heading-help_on_hbdn1v.png") repeat scroll 0 0!important;
     height: 50px!important;
     width: 90px!important;
 }
@@ -2671,12 +2671,12 @@ html[dir="rtl"] #login-status-message {
 }
 #heading-logout_off {
 	
-    background-position: -90px 0 !important;
+    background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722804/heading-logout_off_ie6j73.png") repeat scroll 0 0!important;
     height: 50px!important;
     width: 90px!important;
 }
 #heading-logout_on {
-    background-position: -90px -50px !important;
+    background: rgba(0, 0, 0, 0) url("https://res.cloudinary.com/linkdz/image/upload/v1460722804/heading-logout_on_fqbgaf.png") repeat scroll 0 0!important;
     height: 50px!important;
     width: 90px!important;
 }
