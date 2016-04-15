@@ -2290,19 +2290,19 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-mysql {
-    background-position: 0 -2236px!important;
-    height: 31px!important;
-    width: 45px!important;
+    background-position: 0 -578px !important;
+    height: 40px!important;
+    width: 40px!important;
 }
 #icon-mysql-remoteaccess {
-    background-position: 0 -2269px!important;
-    height: 31px!important;
-    width: 45px!important;
+    background-position: 0 -664px !important;
+    height: 40px!important;
+    width: 40px!important;
 }
 #icon-mysql-wizard3 {
     background-position: 0 -2302px!important;
-    height: 31px!important;
-    width: 45px!important;
+    height: 40px!important;
+    width: 40px!important;
 }
 #icon-nettools {
     background-position: 0 -2335px!important;
@@ -2355,7 +2355,7 @@ html[dir="rtl"] #login-status-message {
     width: 40px!important;
 }
 #icon-phpMyAdmin {
-    background-position: 0 -2675px!important;
+    background-position: 0 -620px !important;
     height: 34px!important;
     width: 45px!important;
 }
@@ -2831,6 +2831,7 @@ h3 {
     min-height: 15px!important;
     padding: 10px!important;
     text-align: center!important;
+	line-height: 38px;
 }
 h6:hover {
     cursor: move!important;
