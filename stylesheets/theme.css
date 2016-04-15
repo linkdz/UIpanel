@@ -2631,7 +2631,7 @@ html[dir="rtl"] #login-status-message {
     width: 6px!important;
 }
 .spriteheading_compleximg {
-    background: rgba(0, 0, 0, 0) url("/panel/res/heading_sprites_compleximg.jpg") no-repeat scroll 0 0!;
+    background: none!important;
     float: left!important;
     margin: 0!important;
     padding: 0!important;
@@ -3004,4 +3004,3 @@ div.index_box_header {
 #themego, #acctgo {
     display: none!important;
 }
-
